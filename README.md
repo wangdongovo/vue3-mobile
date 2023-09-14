@@ -13,6 +13,8 @@ Vite
 Less
 ```
 
+代码提交前做prettier处理统一编码风格
+
 ## Project Setup
 
 ```sh

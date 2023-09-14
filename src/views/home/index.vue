@@ -1,13 +1,7 @@
-<script setup lang="ts">
-const handleClick = () => {
-  console.log(`🍍🙏🍍👉:    用户信息`)
-}
-</script>
+<script setup lang="ts"></script>
 
 <template>
-  <div class="home-container">
-    <div class="header-content" @click="handleClick">2023年7月22日</div>
-  </div>
+  <div class="home-container">首页</div>
 </template>
 
 <style lang="less" scoped>
